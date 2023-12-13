@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+  font-family: Roboto;
+}
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+/* head */
+.main-block {
+  display: flex;
+
+  width: 100%;
+  background-color: #007765;
+  height: 84px;
+  margin-bottom: 0px;
+}
+.block1 {
+  margin: auto;
+}
+.block2 {
+  margin: auto;
+}
+.logo {
+  width: 184px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.nav {
+  color: white;
+  font-family: Roboto;
+}
+
+/*name*/
+.block-name {
+  background-image: url("hero1.png");
+  background-size: 100%;
+  padding-top: 90px;
+  padding-bottom: 91px;
+}
+.block-name2 {
+  text-align: center;
+  width: 100%;
+}
+.name {
+  color: white;
+  font-weight: 400;
+  font-size: 72px;
+}
+
+/* problem */
+.block-problem {
+  width: 100%;
+  background-color: #eeeeee;
+  padding-bottom: 125px;
+  margin: 0;
+}
+.block-problem2 {
+  width: 60%;
+  margin: auto;
+}
+.problem-head {
+  text-align: center;
+  padding-top: 100px;
+
+  color: #007765;
+  font-family: Roboto;
+  font-size: 64px;
+}
+.problem {
+  padding-left: 30px;
+  font-size: 23px;
+  padding-bottom: 20px;
+}
+.problem1 {
+  padding-left: 30px;
+  font-size: 23px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+/* hero2 */
+.block-hero2 {
+  margin-top: 0;
+  background-image: url("hero2.png");
+  background-size: 100%;
+  padding-bottom: 100px;
+}
+.block2-hero2 {
+  margin: auto;
+  width: 60%;
+}
+.text-hero2 {
+  padding-top: 95px;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+}
+
+/* introducing */
+.block-introducing {
+  width: 100%;
+  padding-bottom: 100px;
+}
+.block-introducing2 {
+  width: 70%;
+  margin: auto;
+}
+.introducing-head {
+  text-align: center;
+  padding-top: 60px;
+  padding-right: 70px;
+  font-size: 64px;
+  color: #007765;
+}
+.introducing-text {
+  display: flex;
+  padding-top: 20px;
+  font-size: 25px;
+  padding-left: 30px;
+}
+.image-introducing {
+  display: flex;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  padding-top: 165px;
+  margin: 0;
+  float: left;
+  padding-left: 24px;
+}
+
+/* Team */
+.block-team {
+  width: 100%;
+  background-color: #eeeeee;
+  padding-bottom: 40px;
+}
+.block-team2 {
+  width: 80%;
+  margin: auto;
+}
+.head-team {
+  color: #007765;
+  margin: auto;
+  text-align: center;
+  font-size: 42px;
+  padding-top: 40px;
+}
+.images-team {
+  margin: auto;
+  display: flex;
+}
+.images-team2 {
+  margin: auto;
+  display: flex;
+}
+.photo {
+  width: 200px;
+  padding: 38px;
+}
+.text-images {
+  text-align: center;
+  color: #007765;
+  font-size: 27px;
+  font-weight: 800;
+}
+.text-images2 {
+  text-align: center;
+}
+
+/* end */
+.block-end {
+  width: 100%;
+  background-color: #333333;
+  padding-bottom: 40px;
+}
+.block-end2 {
+  width: 40%;
+  margin: auto;
+}
+.text-end {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 40px;
+  font-weight: 300;
+}
